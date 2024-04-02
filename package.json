@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chetannada/NomNomFoods-Server.git"
+    "url": "git+https://github.com/MATRIX-02/NomNomFoods-Server.git"
   },
   "author": "Mayank",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chetannada/NomNomFoods-Server/issues"
+    "url": "https://github.com/MATRIX-02/NomNomFoods-Server/issues"
   },
-  "homepage": "https://github.com/chetannada/FoodFire-Server#readme",
+  "homepage": "https://github.com/MATRIX-02/FoodFire-Server#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "cross-fetch": "^4.0.0",
